@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "OSI Global Consulting website with Netlify Visual Editor",
   "scripts": {
-    "dev": "echo 'Development server'"
+    "dev": "echo 'Development server'",
+    "sync": "node sync-content.js"
   },
   "dependencies": {
     "@stackbit/types": "^0.6.0",
