@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@stackbit/types": "^0.6.0",
-    "@stackbit/cms-git": "^0.6.0"
+    "@stackbit/cms-git": "^1.0.35"
   },
   "devDependencies": {
     "typescript": "^5.0.0"
