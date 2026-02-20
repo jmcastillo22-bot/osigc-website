@@ -1,0 +1,28 @@
+{
+  "title": "OSI Global Consulting - Supply Chain & Digital Transformation",
+  "description": "OSI Global Consulting offers expert supply chain management, ERP implementation (OMP, SAP, Odoo), and digital transformation consulting services.",
+  "hero": {
+    "heading": "Supply Chain & Digital Transformation Experts",
+    "subheading": "Helping businesses optimize operations through intelligent planning, ERP systems, and AI-driven automation.",
+    "cta_text": "Get in Touch",
+    "cta_url": "/contact"
+  },
+  "services": [
+    {
+      "name": "Supply Chain Optimization",
+      "description": "End-to-end supply chain consulting including demand planning, S&OP, and inventory optimization."
+    },
+    {
+      "name": "ERP Implementation",
+      "description": "Expert implementation of OMP, SAP, and Odoo ERP systems tailored to your business needs."
+    },
+    {
+      "name": "Digital Transformation",
+      "description": "Strategic guidance for AI integration, process automation, and digital maturity assessments."
+    }
+  ],
+  "contact": {
+    "email": "info@osigc.com",
+    "website": "https://osigc.com"
+  }
+}
